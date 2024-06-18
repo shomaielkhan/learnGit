@@ -1,0 +1,13 @@
+Summary
+-Checkbox is missing on this text form
+Description
+-User is unable to check the box in the ‘Fast Animal’ question. The form is submitted and does
+not show error.
+Steps to Reproduce
+- Goto to the form field page:https://practice-automation.com/form-fields/
+- Fill out the form.
+- Submit.
+Expected Result
+-The user should fill checkbox in the ‘Fast Animal’ question and then submit.
+Actual Result
+-The user can submit the form without filling the checkbox in the ‘Fast Animal’ question.
