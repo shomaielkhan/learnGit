@@ -11,3 +11,5 @@ Expected Result
 -The user should fill checkbox in the ‘Fast Animal’ question and then submit.
 Actual Result
 -The user can submit the form without filling the checkbox in the ‘Fast Animal’ question.
+
+REVIEWED 10/10
